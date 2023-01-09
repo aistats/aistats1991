@@ -1,0 +1,26 @@
+draft: false # set to True if the programme is draft only.
+image: hotel.jpg
+hide_tentative: true
+proceedings:
+  url: https://www.routledge.com/Artificial-Intelligence-Frontiers-in-Statistics-Al-and-Statistics-III/Hand/p/book/9780412407109
+  show: true
+room: 
+venue: Hyatt Regency Pier 66
+venue_url: https://www.pier66hotelmarina.com/
+location: Ft. Lauderdale, FL, USA
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 1991
+instance: 3rd
+styling: International Workshop on
+dates:
+- 1991-01-01
+- 1991-01-01
+chairs:
+- type: Chair
+  people:
+  - family: DuMouchel
+    given: William
+    institute: 
+    url: 
